@@ -14,6 +14,26 @@ Este projeto foi desenvolvido pelo **Grupo 49** como parte do Tech Challenge FIA
 
  [▶️ Fine-tuning](https://colab.research.google.com/drive/1JwYGV1xmimsdqKBkxldI8wbEjPW2Xyi6#scrollTo=cE0tLaFWMJ1n)
 
+## Sumário
+
+- [Introdução](#introdução)
+- [Estrutura dos Notebooks](#estrutura-dos-notebooks)
+  - [Notebook 1: Descompactação e Extração](#notebook-1-descompactação-e-extração-01_descompactar_jsonipynb)
+  - [Notebook 2: Tratamento e Limpeza](#notebook-2-tratamento-e-limpeza-02_tratamento_dadosipynb)
+  - [Notebook 3: Amostragem e Formatação](#notebook-3-amostragem-e-formatação-03_amostraipynb)
+  - [Notebook 4: Fine-tuning](#notebook-4-fine-tuning-tech_challenge_3_finetuningipynb)
+  - [Pipeline de Processamento](#pipeline-de-processamento)
+- [Escolha do Modelo e Template de Fine-tuning](#escolha-do-modelo-e-template-de-fine-tuning)
+- [Processo de Fine-Tuning](#processo-de-fine-tuning)
+  - [Parâmetros Críticos de Otimização](#parâmetros-críticos-de-otimização)
+  - [Evolução do Loss ao longo do treinamento](#evolução-do-loss-ao-longo-do-treinamento)
+  - [Métricas de Treinamento](#métricas-de-treinamento)
+  - [Comparação entre o modelo original e o modelo fine-tuned](#comparação-entre-o-modelo-original-e-o-modelo-fine-tuned)
+  - [Resultados e Discussão](#resultados-e-discussão)
+- [Conclusão](#conclusão)
+  - [Modelo Final](#modelo-final)
+- [Referências](#referências)
+
 ## Introdução
 
 O objetivo do trabalho é explora o processo de fine-tuning de um foundation model, com o objetivo de gerar descrições de produtos da Amazon. A metodologia aplicada foi utilizando a biblioteca Unsloth, uma biblioteca especializada no treinamento de LLMs, e um dataset composto por títulos e descrições de produtos da Amazon. O projeto demonstra a viabilidade de especializar um modelo de linguagem para uma tarefa específica, mesmo com recursos computacionais limitados, como os oferecidos pelo Google Colab na versão gratuita.
