@@ -36,7 +36,7 @@ Este projeto foi desenvolvido pelo **Grupo 49** como parte do Tech Challenge FIA
 
 ## Introdução
 
-O objetivo do trabalho é explora o processo de fine-tuning de um foundation model, com o objetivo de gerar descrições de produtos da Amazon. A metodologia aplicada foi utilizando a biblioteca Unsloth, uma biblioteca especializada no treinamento de LLMs, e um dataset composto por títulos e descrições de produtos da Amazon. O projeto demonstra a viabilidade de especializar um modelo de linguagem para uma tarefa específica, mesmo com recursos computacionais limitados, como os oferecidos pelo Google Colab na versão gratuita.
+O objetivo do trabalho será em explorar o processo de fine-tuning de um foundation model, com o objetivo de gerar descrições de produtos da Amazon. A metodologia aplicada foi utilizando a biblioteca Unsloth, uma biblioteca especializada no treinamento de LLMs, e um dataset composto por títulos e descrições de produtos da Amazon. O projeto demonstra a viabilidade de especializar um modelo de linguagem para uma tarefa específica, mesmo com recursos computacionais limitados, como os oferecidos pelo Google Colab na versão gratuita.
 
 O desafio central do projeto reside na manipulação de um grande volume de dados e na otimização do processo de treinamento para alcançar resultados satisfatórios. A escolha do modelo, a preparação do dataset e a definição dos hiperparâmetros de treinamento foram etapas cruciais para o sucesso do fine-tuning, e serão detalhadas ao longo deste documento.
 
