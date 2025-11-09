@@ -12,8 +12,11 @@ Este projeto foi desenvolvido pelo **Grupo 49** como parte do Tech Challenge FIA
 
 ## Notebooks Google Colab
 [▶️ 01-descompactar_json](https://colab.research.google.com/drive/1Q7yWtcc1OI_gUipIu2wuw_zXwWleSLwE)
+
 [▶️ 02-tratamento_dados](https://colab.research.google.com/drive/1f4tpRogCIDzEeOlF7WCrGBITCYRDWbI5)
+
 [▶️ 03-Amostra](https://colab.research.google.com/drive/1kGnvSIKUCaD4pG1X4ngoWbeqLr59K1ji)
+
 [▶️ Fine-tuning](https://colab.research.google.com/drive/12bzWxEa5uoMFC53OYY-wsjJfai9gBiNf#scrollTo=XSG8SqCkMbE7)
 
 ## Sumário
@@ -157,7 +160,7 @@ Os resultados indicam que a escolha do template de treinamento é um fator crít
 Apesar dos desafios, o projeto alcançou seu objetivo principal de especializar um modelo de linguagem para a geração de descrições de produtos, disponibilizando um artefato funcional que pode ser utilizado e aprimorado em trabalhos futuros. A experiência adquirida neste trabalho reforça a importância de uma metodologia estruturada e da compreensão aprofundada das ferramentas e técnicas de fine-tuning para o desenvolvimento de soluções de inteligência artificial aplicadas a problemas de negócio específicos do mundo real.
 
 ### Modelo Final
-- **Hugging Face Hub**: [robsoncalixto/Llama-3.2-1B-finetuning-grp49](https://huggingface.co/robsoncalixto/Llama-3.2-1B-finetuning-grp49)
+- **Hugging Face Hub**: [https://huggingface.co/Araguacy/Llama-3.2-1B-finetuning-fiap](https://huggingface.co/Araguacy/Llama-3.2-1B-finetuning-fiap)
 - **Formato**: GGUF (compatível com Ollama)
 
 ## Referências
