@@ -11,8 +11,10 @@ Este projeto foi desenvolvido pelo **Grupo 49** como parte do Tech Challenge FIA
 - **Vinicius Fernando M. Costa** - mcostavini98@gmail.com   
 
 ## Notebooks Google Colab
-
- [▶️ Fine-tuning](https://colab.research.google.com/drive/1JwYGV1xmimsdqKBkxldI8wbEjPW2Xyi6#scrollTo=cE0tLaFWMJ1n)
+[▶️ 01-descompactar_json](https://colab.research.google.com/drive/1Q7yWtcc1OI_gUipIu2wuw_zXwWleSLwE)
+[▶️ 02-tratamento_dados](https://colab.research.google.com/drive/1f4tpRogCIDzEeOlF7WCrGBITCYRDWbI5)
+[▶️ 03-Amostra](https://colab.research.google.com/drive/1kGnvSIKUCaD4pG1X4ngoWbeqLr59K1ji)
+[▶️ Fine-tuning](https://colab.research.google.com/drive/12bzWxEa5uoMFC53OYY-wsjJfai9gBiNf#scrollTo=XSG8SqCkMbE7)
 
 ## Sumário
 
